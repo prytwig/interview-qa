@@ -68,4 +68,4 @@ graph LR;
   **答案**：
   1. 部署配置文件请参照*具体要求*中的链接
   2. 可使用`kubectl apply -f <deployment.yaml>` 依次执行部署文件，secret.yaml 优先
-  3. 目录文件已按照helm标准建立，也可使用 helm install <kubernetes-app> 来安装应用
+  3. 目录文件已按照helm标准建立，也可使用 `helm install <kubernetes-app>` 来安装应用
