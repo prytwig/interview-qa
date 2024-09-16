@@ -1,0 +1,5 @@
+apiVersion: v2
+name: ipo_com
+description: Helm chart for ipo.com
+version: 0.1.0
+appVersion: "1.0.0"
